@@ -6,7 +6,7 @@ Back-End Exercise, Nashville Software School
 Create a class to test the functionality of a Calculator class.
 
 ## Concepts
-
+Testing with Mini Test
 
 ## Running the test class
 ```
